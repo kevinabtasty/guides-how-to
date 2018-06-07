@@ -77,7 +77,7 @@ Redo the make install.
 ```
 $ cd /usr/local/etc/php/7.1
 $ sudo nano php.ini
-# Add folling line in the php extensions 
+# Add folling line in the php extensions (replace your username :P)
 # extension=/Users/kevin/tmp/grpc/src/php/ext/grpc/modules/grpc.so
 ```
 
